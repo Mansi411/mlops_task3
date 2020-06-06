@@ -36,3 +36,4 @@ f= open("accuracy.txt","w+")
 f.write(str(accuracy))
 f.close()
 print("Accuracy for the model is : " , accuracy ,"%")
+
